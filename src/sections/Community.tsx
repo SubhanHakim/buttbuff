@@ -11,7 +11,7 @@ const Community = () => {
                 We don't have Telegram. It was too loud.
             </p>
             <div className="flex justify-center gap-6">
-                <Button href="#" variant="primary">X Community</Button>
+                <Button href="https://x.com/i/communities/2013263996930187750" variant="primary">X Community</Button>
             </div>
         </div>
     );
