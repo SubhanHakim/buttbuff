@@ -45,7 +45,7 @@ const Hero = () => {
                             Community
                         </span>
                     </Button>
-                    <Button href="#" variant="secondary">💊 Pump.fun</Button>
+                    <Button href="https://pump.fun/coin/6bvFN4qydRuCdfefwjy4NKcBsoDWYYC6JqZK26o4pump" variant="secondary">💊 Pump.fun</Button>
                 </div>
             </div>
         </div>
