@@ -31,10 +31,10 @@ const Hero = () => {
 
             <div className="mt-12 space-y-6 z-10 max-w-2xl px-4">
                 <h1 className="text-6xl md:text-8xl font-black text-transparent bg-clip-text bg-gradient-to-r from-[#ff758c] to-[#ff7eb3] drop-shadow-sm leading-[0.9]">
-                    Absolute Unit.
+                    Too Thicc To Fail.
                 </h1>
                 <p className="text-xl md:text-2xl font-bold text-slate-600">
-                    0% Utility. 100% Aerodynamics.
+                    We don't go to the moon. We sit on it.
                 </p>
                 <div className="flex flex-wrap justify-center gap-4 pt-8">
                     <Button href="#" variant="primary">
